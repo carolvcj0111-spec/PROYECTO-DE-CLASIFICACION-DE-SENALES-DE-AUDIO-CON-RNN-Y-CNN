@@ -1,0 +1,16 @@
+Para poder ejercutar el proyecto en Python debemos:
+
+1. Clonar este repositorio:
+git clone https://github.com/usuario/proyecto-audio-cnn-rnn
+cd proyecto-audio-cnn-rnn
+2. Instalar las dependencias:
+pip install -r requirements.txt
+3. Colocar el archivo kaggle.json en la carpeta ~/.kaggle/ y asignar permisos:
+mkdir ~/.kaggle
+cp kaggle.json ~/.kaggle/
+chmod 600 ~/.kaggle/kaggle.json
+4. Descargar el dataset: 
+kaggle datasets download -d murtadhanajim/gender-recognition-by-voiceoriginal
+unzip gender-recognition-by-voiceoriginal.zip
+5. Ejecutar el script directamente:
+python señales_2.py
