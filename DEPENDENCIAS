@@ -1,0 +1,5 @@
+Para instalar todas las librerías necesarias para ejecutar el proyecto se usa el siguiente comando:
+
+pip install kaggle librosa numpy matplotlib scikit-learn tensorflow 
+
+Se escribe en la terminal y descarga automáticamente: kaggle, librosa, numpy, matplotlib, scikit-learn y tensorflow.
