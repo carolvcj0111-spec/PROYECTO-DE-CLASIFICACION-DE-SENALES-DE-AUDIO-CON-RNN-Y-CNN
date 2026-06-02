@@ -1,7 +1,7 @@
 Para ejecutar el proyecto en Google Colab debemos seguir los siguientes pasos:
 
 1. Abrir el archivo en Google Colab: 
-https://colab.research.google.com/drive/1oBY3X0of9xFoi5w7JOJmEuWGEX-7Ngn-?usp=sharing 
+https://colab.research.google.com/drive/1aVrAIOx0NtEGYhhOU5YvmCU1XETfk_82#scrollTo=_9QLrZMYz32t 
 2. Obtener el archivo kaggle.json.
 3. Ejecutar la primera celda y subir el archivo kaggle.json cuando se solicite.
 4. Ejecutar las celdas de forma secuencial. El dataset se descargará y descomprimirá automáticamente.
